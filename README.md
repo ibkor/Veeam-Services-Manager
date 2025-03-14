@@ -19,7 +19,7 @@ The entire source code is available in the repository, allowing you to verify th
 
 ## Installation
 
-1. Download the zip file.
+1. Download the Veeam Services Manager.zip file.
 2. Run the installer and follow the prompts.
 
 ## Usage
