@@ -1,6 +1,6 @@
 # Veeam Services Manager
 
-Veeam Services Manager is a Windows Forms application that allows users to easily start and stop Veeam services on their Windows machines. This tool provides a user-friendly interface for managing Veeam services without needing to navigate through the Windows Services management console.
+Veeam Services Manager is a Windows Forms application that allows users to easily start and stop Veeam services on their Windows machines. This tool provides a user-friendly interface for managing Veeam services without needing to navigate through the Windows Services management console or using PowerShell.
 
 Source Code:
 The entire source code is available in the repository, allowing you to verify the implementation or make modifications as needed.
