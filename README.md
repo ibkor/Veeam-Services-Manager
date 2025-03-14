@@ -14,7 +14,7 @@ The entire source code is available in the repository, allowing you to verify th
 
 ## Prerequisites
 
-- Windows operating system (Windows 10 or later recommended).
+- Windows operating system (Windows 10 / 2016 or later recommended).
 - .NET Framework 4.5 or later.
 
 ## Installation
